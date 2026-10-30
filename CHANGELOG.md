@@ -1,5 +1,15 @@
 # SyncStream ADJD - Releases
 
+## v1.2.2 - 2026-10-30
+
+- The ADJD logo with the crest in its gold frame, everywhere: the kiosk, the displays and the content console
+- The kiosk opens on ADJD Black by default (Admin > Theme still offers the other backgrounds)
+- Admin > Media Library > Clear Cache: deletes the downloaded content files and old update files, then reloads the content from the content server (the settings are kept)
+- A website sent to a room fits that room's display: Match Display (the default) or Same as Kiosk, under the website in the room preview
+- The page control of a document sent to a room closes when another option is chosen
+- Every web engine has a folder of its own: no stray Chromium window, and the website always loads on the display
+- The displays move to their own screens by themselves when a screen is switched on or plugged in after the PC started
+
 ## v1.2.0 - 2026-10-19
 
 - Themes: the Government of Abu Dhabi brand guidelines four backgrounds in Admin > THEME - ADJD White (cream with maroon and gold, the default on the kiosk and every display), ADJD Black (the lockup in its white holding shape), ADJD Grey and ADJD Green
