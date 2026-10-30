@@ -1,5 +1,9 @@
 # SyncStream ADJD - Releases
 
+## v1.2.3 - 2026-10-30
+
+- The official ADJD logo with the crest in its gold frame, on every screen and in the content console: the kiosk's home page, the displays' home screen, the ticker and the pillars when nothing is sent, and the sync page
+
 ## v1.2.2 - 2026-10-30
 
 - The ADJD logo with the crest in its gold frame, everywhere: the kiosk, the displays and the content console
