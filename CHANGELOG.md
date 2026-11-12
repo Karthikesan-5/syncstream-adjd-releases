@@ -1,5 +1,23 @@
 # SyncStream ADJD - Releases
 
+## v1.2.4 - 2026-11-12
+
+- Plain black behind every screen of the kiosk and the displays (ADJD Black): no picture and no pattern, the transparent glass itself
+- The kiosk's home page shows the department's building with the official logo beside it; every display's idle screen shows the logo alone, centred, in its white plate
+- Every display draws at its own resolution, whatever its size or shape: the logo keeps its true proportions everywhere - on a narrow pillar it is the same logo plate, smaller - and nothing is stretched
+- A new task bar across the whole width, its corners marked: Website, Displays and Rooms on the left, Home and Back in the middle, the language at the right; the icons alone, the chosen one in its box with its name; on a page, Pictures, Films and Documents above the bar under the media
+- Displays opens Ticker and Pillars, Rooms opens Meeting and Discussion: the chosen room is marked in red, with a green dot while its display is connected
+- The cards run edge to edge with the cards coming in from the sides blurred, a smooth spring when they move, and arrows and dots under the row
+- The cards in the SyncStream look in black and gold, smaller: the card in hand glows in gold on clear, blurred glass; lights travel along the screen frame
+- A frosted-glass finish made for the transparent display: the cards, the panels, the bar's chosen button and the menus are lit like glass, brighter at the top with a light edge
+- The cards stand apart as in SyncStream 2.0, the sides smaller and softer as they fall back; the card in hand comes out of the display: its picture stands off its glass and shifts as it sways, it floats gently, and a light slides across its glass
+- The card in hand glows along its border line only - no glow round it or under it
+- The cards are clean: only their border line, the picture and the name - the lines, barcode and marks inside them are gone, and the name keeps its place on the card as it moves
+- Pictures, films, documents and websites sent to a display are sharper
+- Websites on the room displays can share the screen: a second, third and fourth page sent to the Meeting or Discussion Room splits its screen into a grid (Single Page in the room preview keeps one page)
+- The website on the kiosk mirrors the room screen exactly: the full desktop page laid out as the selected display shows it, at that display's shape - the same layout and the same part of the page, a tap or a scroll landing on the same place
+- ADJD Black is the default on every display
+
 ## v1.2.3 - 2026-10-30
 
 - The official ADJD logo with the crest in its gold frame, on every screen and in the content console: the kiosk's home page, the displays' home screen, the ticker and the pillars when nothing is sent, and the sync page
