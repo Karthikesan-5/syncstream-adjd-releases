@@ -1,5 +1,19 @@
 # SyncStream ADJD - Releases
 
+## v1.2.5 - 2026-11-16
+
+- Websites on a room display are the exact replica of the kiosk's page, both ways: what is tapped, scrolled or typed on the kiosk happens on the display, and a touch on the display's glass - or the hand over the Leap sensor - happens on the kiosk's page too (Same as Kiosk is removed)
+- The dynamic grid takes up to six websites (three columns in two rows) and works as a KVM: tap a page of the grid - on the kiosk or on the display itself - and that is the page you control
+- The Website page is laid out like SyncStream 2.0's dashboard: the two rooms' screens side by side with every page standing on them, Clear Walls beside them, Single Page and Dynamic Grid under them, and the presets as a row of cards along the bottom. Tap a preset and its page card is laid on the table; swipe a card up or to the right to send it, pull it down and it goes off. The address bar, the keyboard, Go and Bookmark are as they were
+- On the Website page: Position 1 and Position 2 choose the room the kiosk stands in (1 = the Meeting Room, 2 = the Discussion Room, the same choice as the Rooms menu) - the two rooms' screens change places, up is the room the kiosk stands in and right is the other; Swap makes two pages of a room's grid change places - tap Swap, then the two pages
+- The bookmarks row slides: with more than five saved websites a sideways swipe on the row shows the next five (the arrow keys stay); the Bookmark button is smaller
+- Front and right: a swipe up sends to the room the kiosk stands in, a swipe to the right sends the same content to the other room (the left stays closed)
+- Leap Motion on the room displays: the Expert gestures with the sensor on top of the screen are the default; a pinch zooms into the spot under the cursor; scroll, click and zoom steer the website
+- Sync from the kiosk reaches every display by two paths, three times - the Discussion Room display syncs with the others
+- Admin > Display > Font: eleven typefaces to choose from, Times New Roman among them, applied at once; the room displays follow the kiosk's choice
+- The blurred side cards no longer flicker
+- Pure black, never grey: the panels, keys and chips stand on black with the gold line; the chosen bar button is clear glass with a lit edge; the cards are a little glassier
+
 ## v1.2.4 - 2026-11-12
 
 - Plain black behind every screen of the kiosk and the displays (ADJD Black): no picture and no pattern, the transparent glass itself
