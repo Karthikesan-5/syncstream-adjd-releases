@@ -1,5 +1,10 @@
 # SyncStream ADJD - Releases
 
+## v1.2.6 - 2026-11-17
+
+- The licence check is removed: every part of the software runs without a licence file, nothing expires and no machine is measured
+- The Licence page is no longer in Settings, and the bar carries no locks
+
 ## v1.2.5 - 2026-11-16
 
 - Websites on a room display are the exact replica of the kiosk's page, both ways: what is tapped, scrolled or typed on the kiosk happens on the display, and a touch on the display's glass - or the hand over the Leap sensor - happens on the kiosk's page too (Same as Kiosk is removed)
