@@ -1,5 +1,13 @@
 # SyncStream ADJD - Releases
 
+## v1.2.7 - 2026-11-18
+
+- The three PCs work on fixed addresses: Server PC 10.100.49.230 (Meeting Room, Ticker and the content), Kiosk PC 10.100.49.238, Discussion Room PC 10.100.49.232. Every screen reads its content from the Server PC only - nothing searches the network or follows another server
+- The kiosk is the master: when the address list is changed on the kiosk it is sent to every PC, and each PC keeps it
+- The display software on the Server PC serves the content by itself; on any other PC it does not
+- Every push, the ticker and Sync go straight to the listed PCs as well as to the whole network
+- Sync says what is wrong: the content server is not answering, or the content server is empty
+
 ## v1.2.6 - 2026-11-17
 
 - The licence check is removed: every part of the software runs without a licence file, nothing expires and no machine is measured
