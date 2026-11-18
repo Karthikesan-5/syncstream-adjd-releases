@@ -6,6 +6,7 @@
 - The kiosk is the master: when the address list is changed on the kiosk it is sent to every PC, and each PC keeps it
 - The display software on the Server PC serves the content by itself; on any other PC it does not
 - Every push, the ticker and Sync go straight to the listed PCs as well as to the whole network
+- Update Now on the kiosk also updates every display PC (each PC needs internet at that moment), and the Software Update page on the kiosk shows the version of each PC. On a PC with two displays both close and start again together
 - Sync says what is wrong: the content server is not answering, or the content server is empty
 
 ## v1.2.6 - 2026-11-17
