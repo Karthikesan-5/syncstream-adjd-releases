@@ -1,5 +1,14 @@
 # SyncStream ADJD - Releases
 
+## v1.2.8 - 2026-11-20
+
+- A room's wall never shows an earlier page while a new one is loading: it shows "Opening" with the page's name until the page arrives
+- The pictures section comes back by itself when Website, Pillars or Ticker is closed
+- Rooms on the bar is now Position: Position 1 = Meeting Room, Position 2 = Discussion Room; choosing one closes the menu, and swipe up and swipe right follow it
+- Scale is a small panel inside Position (Full Screen, Scale to Fit, Actual Size, Left / Centre / Right, zoom) for the room in front; the room preview pop-up no longer opens on the kiosk; Back closes an open bar menu
+- Website page: two guide lines show how a bookmark is sent to each room and what the two screens are for (Dynamic Grid: up to six pages)
+- Website keyboard: its own close key, the marks (#+=), Caps (Shift twice), ! ? and the comma; the cursor moves by its two keys or by a touch in the address, so a mistake is corrected where it is
+
 ## v1.2.7 - 2026-11-18
 
 - The three PCs work on fixed addresses: Server PC 10.100.49.230 (Meeting Room, Ticker and the content), Kiosk PC 10.100.49.238, Discussion Room PC 10.100.49.232. Every screen reads its content from the Server PC only - nothing searches the network or follows another server
