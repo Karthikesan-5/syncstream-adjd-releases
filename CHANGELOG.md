@@ -1,5 +1,14 @@
 # SyncStream ADJD - Releases
 
+## v1.2.9 - 2026-11-27
+
+- Web pages on the kiosk and on the Meeting Room and Discussion Room displays now work with touch as on a tablet: several fingers at once, double tap (opens what a double-click opens), smooth scrolling up, down and sideways with a glide, and pinch to zoom
+- Hold a finger on a web page to open its options: the site's own menu, or Back, Forward and Reload (and Open Link, Copy Link, Copy or Paste where they apply)
+- Drag-and-drop on a website works by touch: hold an item, move it onto the drop area and lift
+- The website on the kiosk now fills the width of the screen and is laid out for the kiosk itself, so it is sharp and readable; each room display lays the page out for its own screen
+- A tap on the kiosk reaches the same button, field or link on the room's display, and the room follows the kiosk's scrolling
+- Tapping the address bar of an open page keeps its address, with the cursor where you tapped, so it can be edited; Clear still empties it
+
 ## v1.2.8 - 2026-11-20
 
 - A room's wall never shows an earlier page while a new one is loading: it shows "Opening" with the page's name until the page arrives
