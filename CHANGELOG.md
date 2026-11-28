@@ -1,5 +1,13 @@
 # SyncStream ADJD - Releases
 
+## v1.3.0 - 2026-11-27
+
+- Websites on the kiosk are drawn at the kiosk screen's own resolution, pixel for pixel, so text is as sharp as in a browser on the same screen
+- On the Meeting Room and Discussion Room displays, whatever is typed on the display itself (the Windows touch keyboard or a keyboard plugged into its PC) now goes into the website's field: user names, passwords, Tab, Enter, Backspace, the arrows, copy and paste
+- A saved bookmark that is opened keeps its address when the address bar is tapped, so a few letters can be changed and a second address opened; a site that cannot be reached keeps its address too
+- When the kiosk wakes from its rest (the black screen or the screensaver), a 2-second start-up film plays on the kiosk and on every display (Meeting LED, Discussion display, ticker and pillars), each at its own resolution, ending on the ADJD logo before the home returns
+- A touch test page comes with the software for checking touch, multi-touch, double tap, long press, scrolling, pinch zoom, drag, drag-and-drop, a 3D model, tabs and a sign-in form without the internet: http://<content server>:8790/test/ (on site http://10.100.49.230:8790/test/)
+
 ## v1.2.9 - 2026-11-27
 
 - Web pages on the kiosk and on the Meeting Room and Discussion Room displays now work with touch as on a tablet: several fingers at once, double tap (opens what a double-click opens), smooth scrolling up, down and sideways with a glide, and pinch to zoom
